@@ -1,6 +1,8 @@
 CloudRemoting PowerShell module
 ===============================
 
+[![Join the chat at https://gitter.im/murati-hu/CloudRemoting](https://badges.gitter.im/murati-hu/CloudRemoting.svg)](https://gitter.im/murati-hu/CloudRemoting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build status](https://ci.appveyor.com/api/projects/status/kdc6a75b8wludjq6?svg=true)](https://ci.appveyor.com/project/muratiakos/cloudremoting)
 
 CloudRemoting module provides an easy and scriptable way to connect to EC2, Azure
